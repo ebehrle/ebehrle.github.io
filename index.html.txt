@@ -1,0 +1,82 @@
+<! Thanks to Jens Jager for HTML/CSS help.>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Evan Behrle</title>
+<meta charset="UTF-8">
+<style type="text/css">
+</style>
+</head>
+<body>
+
+<div style="margin: 2em 4em; width: 800px">
+<h1>Evan Behrle</h1>
+
+<div style="float: right; padding-left: 2em">
+<p><img alt="Photo of Evan" src="photo.jpg" style="width: 225px;"></p>
+</div>
+
+<p>I'm a PhD student in NYU's philosophy department.</p>
+
+<p>I work in moral and political philosophy. My dissertation is about the idea that workers should be rewarded according to their productive contributions. I argue that, despite appearances, this idea cannot vindicate significant income inequality--that it has egalitarian implications, rather than inegalitarian ones.</p>
+
+<p>I did my undergraduate degree in politics at the University of Virginia followed by an MPhil in political theory from Oxford. Before coming to NYU I was special advisor for opioid policy / acting director of opioid overdose prevention at the Baltimore City Health Department.</p>
+
+<p>Here is my <a href="cv.pdf">CV</a>. My last name is pronounced "burl."</p></p>
+
+<h2>Papers</h2>
+
+<p>"Desert and Economic Interdependence."
+<br>
+<i>The Journal of Philosophy</i>. Forthcoming. [<a href="dei.pdf">Download</a>]
+<br>
+<i>Winner of the 2024 Erik Olin Wright Prize</i>.</p>
+
+<h2>Work in Progress</h2>
+
+<li>
+A paper on the debate about slavery's contribution to the American economy, and more generally about how to understand productive contribution
+</li>
+
+<li>
+A paper on economic exploitation
+</li>
+
+<li>
+A paper on basic equality and the "variation problem"
+</li>
+
+<h2>Teaching</h2>
+
+<p><b>As sole instructor:</b></p>
+
+<p>Ethics (Summer 2024)
+<br>
+
+Political Philosophy (Summer 2021)</p>
+
+<p><b>As recitation instructor:</b></p>
+
+<p>Metaphysics (Spring 2024, Instructor: Zachary Goodsell)
+<br>
+
+History of Early Modern European Philosophy (Spring 2022, Instructor: Don Garrett)
+<br>
+
+Philosophy of Language (Fall 2021, Instructor: Matt Mandelkern)
+<br>
+
+Race and Racism (Spring 2021, Instructor: Kwame Anthony Appiah)
+<br>
+
+Ethics and Society (Fall 2020, Instructor: Daniel Viehoff)</p>
+
+<p><b>Outreach:</b><p>
+
+<p>Broome Street Academy, Philosophy Club (2021-22)
+
+</div>
+
+</body>
+</html>
